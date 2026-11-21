@@ -1,4 +1,4 @@
-# Shredder-1.1v
+# Shredder
 A batch / powershell script that permanently destroys files and folders using cryptographic overwriting and metadata scrubbing, making them completely unrecoverable.
 
 **Set-up and Use**
