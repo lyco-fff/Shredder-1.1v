@@ -25,7 +25,7 @@ Works, but has easily bypassed safeguards. For example, if a folder that is to b
 
 Shredder 1.1v fixes this issue.
 
-**Shredder 1.1v
+**Shredder 1.1v**
 
 Works, but has a weird bug that makes it unable to shred files over 2GB in size.
 
